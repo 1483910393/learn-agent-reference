@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+sandbox/
+.runtime/
+.memory/
+.transcripts/
+.tasks/
+.teams/
+.worktrees/
+.mailboxes/
+.task_outputs/
+.scheduled_tasks.json
